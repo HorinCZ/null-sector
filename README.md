@@ -4,7 +4,9 @@
 
 ## Hrát online
 
-[Spustit NULL SECTOR](https://null-sector-horincz.horin.chatgpt.site/)
+**[Hrát NULL SECTOR na GitHub Pages](https://horincz.github.io/null-sector/)**
+
+[Alternativní odkaz přes Sites](https://null-sector-horincz.horin.chatgpt.site/)
 
 Hra běží v prohlížeči na počítači s klávesnicí a myší. Není potřeba instalace ani účet.
 
